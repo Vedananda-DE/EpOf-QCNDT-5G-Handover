@@ -1,0 +1,8 @@
+dataset/input/
+dataset/processed/labeled_data/labeled_traces.csv
+dataset/processed/normalized_data/selected_features_scaled.csv
+__pycache__/
+*.pyc
+.DS_Store
+*.asv
+slprj/
